@@ -7,20 +7,29 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emilia-core/gatsby-config.js
-    siteTitle: `Emilia`,
-    siteTitleAlt: `Emilia - Gatsby Starter Portfolio`,
-    siteHeadline: `Emilia - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emilia.lekoarts.de`,
+    siteTitle: `John Bang`,
+    siteTitleAlt: `Gatsby Portfolio`,
+    siteHeadline: `Theme from @lekoarts`,
+    siteUrl: `https://www.twitter.com/ebdoctorow`,
     siteDescription: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@ebdoctorow`,
   },
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
-      options: {},
+      options: {
+        name: `John Bang`,
+        location: "SF Bay Area",
+        socialMedia: [
+          {
+            title: `Twitter`,
+            href: `https://www.twitter.com/ebdoctorow`
+          }
+        ]
+      },
     },
     `gatsby-plugin-sitemap`,
     {

@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://emilia.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  <a href="https://jblogmain.web.app">
+    <img alt="John Bang" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
   </a>
 </p>
 <h1 align="center">
@@ -17,8 +17,8 @@
   <a href="https://www.lekoarts.de?utm_source=emilia&utm_medium=Starter">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  <a href="https://twitter.com/intent/follow?screen_name=ebdoctorow">
+    <img src="https://img.shields.io/twitter/follow/ebdoctorow.svg?label=Follow%20@ebdoctorow" alt="Follow @ebdoctorow" />
   </a>
 </p>
 
@@ -136,6 +136,6 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 
 ## 🌟 Supporting me
 
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
+Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/ebdoctorow) and share the project with me.
 
 Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
