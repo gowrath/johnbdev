@@ -8,9 +8,9 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emilia-core/gatsby-config.js
     siteTitle: `John Bang`,
-    siteTitleAlt: `Gatsby Portfolio`,
-    siteHeadline: `Theme from @lekoarts`,
-    siteUrl: `https://www.twitter.com/ebdoctorow`,
+    siteTitleAlt: `John Bang`,
+    siteHeadline: 'Showcase',
+    siteUrl: `https://www.github.com/gowrath`,
     siteDescription: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
@@ -25,8 +25,8 @@ module.exports = {
         location: "SF Bay Area",
         socialMedia: [
           {
-            title: `Twitter`,
-            href: `https://www.twitter.com/ebdoctorow`
+            title: `Github`,
+            href: `https://www.github.com/gowrath`
           }
         ]
       },
