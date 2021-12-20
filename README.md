@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jblogmain.web.app">
+  <a href="https://johnbdev.web.app">
     <img alt="John Bang" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
   </a>
 </p>
@@ -14,7 +14,7 @@
   <a href="https://github.com/sponsors/LekoArts">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
   </a>
-  <a href="https://www.lekoarts.de?utm_source=emilia&utm_medium=Starter">
+  <a href="https://johnbdev.web.app">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=ebdoctorow">
@@ -26,7 +26,7 @@ Minimalistic portfolio/photography site with masonry grid, page transitions and 
 
 [**Demo Website**](https://emilia.lekoarts.de)
 
-Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=emilia&utm_medium=Starter).
+Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://johnbdev.web.app).
 
 ## ✨ Features
 
