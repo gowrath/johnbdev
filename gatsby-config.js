@@ -21,15 +21,21 @@ module.exports = {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
       options: {
-        name: `John Bang`,
+        name: `John Bang is building responsive web apps with React`,
         location: "SF Bay Area",
         socialMedia: [
           {
             title: `Github`,
             href: `https://www.github.com/gowrath`
+          },
+          {
+            title: 'Linkedin',
+            href: 'https://www.linkedin.com/in/jobang'
           }
         ]
+        
       },
+      showThemeAuthor: false,
     },
     `gatsby-plugin-sitemap`,
     {
