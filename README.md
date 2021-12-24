@@ -1,17 +1,23 @@
+Hi! If you're reading this, you are viewing a professional profile that was created using Gatsby.js.
 
+Gatsby is a static site generator that uses React.
 
-Please visit this blog: https://johnbdev.web.app
+Here is my web app hosted by Google Cloud Platform:
 
-This is my Gatsby project that uses several Gatsby plugins using lazy-loading images. Gatsby is a static site generator in which pages are partially rendered server and uses Javascript React to run sites quickly and optimized for SEO. 
+https://johnbdev.web.app
 
-The images on my blog are personally taken by me in <b>Emeryville, Seoul, and Newport Beach.</b> 
+This site uses several Gatsby plugins using lazy-loading images. 
+
+The images on my blog are personally taken by me in <b>Emeryville and Seoul.</b> 
+
+The pages load quickly, with the pictures being served secondarily.
 
 I am using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`] by LekoArts.
 
-Features:
+Here are some of the features:
 
-- MDX
+- MDX for easy HTML input
 - Light Mode / Dark Mode
-- Typography driven, minimal style
+- Minimal style with hover for projects.
 
 
