@@ -6,7 +6,7 @@ Here is my web app hosted by Google Cloud Platform:
 
 https://johnbdev.web.app
 
-This site uses several Gatsby plugins using lazy-loading images. This speeds up loading the page.
+This site uses several Gatsby plugins using lazy-loading images. This speeds up loading the page by loading necessary components first.
 
 The images on my blog are personally taken by me in <b>Emeryville and Seoul.</b> 
 
