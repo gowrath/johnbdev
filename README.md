@@ -1,4 +1,4 @@
-Hi! If you're reading this, you are viewing a professional profile that was created using Gatsby.js.
+Hi! If you're reading this, you are viewing a professional profile that was created using **Gatsby.js**.
 
 Gatsby is a static site generator that uses React.
 
