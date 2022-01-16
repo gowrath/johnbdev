@@ -6,7 +6,7 @@ Here is my web app hosted by Google Cloud Platform:
 
 https://johnbdev.web.app
 
-This site uses several Gatsby plugins using lazy-loading images. This speeds up loading the page by loading necessary components first.
+This site uses several Gatsby plugins using lazy-loading images. This speeds up loading the page by loading necessary components first. It uses server-side rendering and is optimized for SEO. 
 
 The images on my blog are personally taken by me in <b>Emeryville and Seoul.</b> 
 
@@ -16,10 +16,6 @@ Some challenges I overcame was the initial setup on Google Cloud with Firebase s
 
 I am using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`] by LekoArts.
 
-Here are some of the features:
-
-- MDX for easy HTML input
-- Light Mode / Dark Mode
-- Minimal style with hover for projects.
+Please try out dark mode at the bottom of the page!
 
 
