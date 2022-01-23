@@ -18,4 +18,4 @@ I am using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`] by LekoArts.
 
 Please try out dark mode at the bottom of the page!
 
-
+And please leave me feedback!
