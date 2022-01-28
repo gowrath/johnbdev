@@ -21,7 +21,7 @@ module.exports = {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
       options: {
-        name: `John Bang is building responsive web apps with React`,
+        name: `John, your next front end developer`,
         location: "SF Bay Area",
         socialMedia: [
           {
