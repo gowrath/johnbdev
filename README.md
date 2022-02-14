@@ -1,6 +1,6 @@
 Hi! If you're reading this, you are viewing a professional profile that was created using **Gatsby.js**.
 
-Gatsby is a static site generator that uses React.
+Gatsby is a static site generator that uses React and GraphQL
 
 Here is my web app hosted by Google Cloud Platform:
 
